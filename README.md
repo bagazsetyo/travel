@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-#   Tracel website
+#   Travel website
 BWA-LARAVEL : Travel, easy in choosing travel packages and costumization
 
 **Features**
